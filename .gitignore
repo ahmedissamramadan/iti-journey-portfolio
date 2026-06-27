@@ -1,0 +1,3 @@
+copy_assets.py
+*.pdf
+.DS_Store
